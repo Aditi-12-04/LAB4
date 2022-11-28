@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="xsllab3.xsl"?>
+<customer>
+  <details>
+      <cust_id>1</cust_id>
+      <fname>Aditi</fname>
+      <lname>khurana</lname>
+      <phone>9639611149</phone>
+      <city>Delhi</city>
+      <pincode>201201</pincode>
+  </details>
+  <details>
+      <cust_id>2</cust_id>
+      <fname>Andriya</fname>
+      <lname>Zenith</lname>
+      <phone>8979766322</phone>
+      <city>Chennai</city>
+      <pincode>56008</pincode>
+   </details> 
+   <details>
+      <cust_id>3</cust_id>
+      <fname>Dhanush</fname>
+      <lname>Venkata</lname>
+      <phone>8764457711</phone>
+      <city>Bangalore</city>
+      <pincode>60998</pincode>
+  </details> 
+  <details>
+      <cust_id>4</cust_id>
+      <fname>Anila</fname>
+      <lname>Hannah</lname>
+      <phone>7017603525</phone>
+      <city>Kerela</city>
+      <pincode>67553</pincode>
+  </details> 
+  <details>
+      <cust_id>5</cust_id>
+      <fname>Sumit</fname>
+      <lname>Agrawal</lname>
+      <phone>8191987745</phone>
+      <city>Gurgaon</city>
+      <pincode>87790</pincode>
+  </details> 
+</customer>
+       
